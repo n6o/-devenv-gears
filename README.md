@@ -3,7 +3,7 @@
 ## Create devenv instance by multipass
 
 ```
-$ multipass launch -n NAME --cloud-init devenv-cloud-config.yaml -vvvv
+$ multipass launch -n NAME --cloud-init devenv-cloud-init.yml -vvvv
 ```
 
 ## Setup devenv
